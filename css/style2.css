@@ -1,0 +1,22 @@
+#navbar-container {
+    display: flex;
+}
+
+ul {
+    background-color: darkkhaki;
+    height: 30%;
+    border-radius: 25px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    background-color: beige;
+    border-radius: 20px;
+    list-style-type: none
+}
+
+span img {
+    width: 30px;
+}
